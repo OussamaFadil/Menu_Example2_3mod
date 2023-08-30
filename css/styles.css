@@ -1,0 +1,55 @@
+body {
+  background-color: #985656;
+  font-family: 'monospace' ;
+  color: /*#DAF7A6*/ black;
+  font-size: 20px;
+}
+
+/*header*/
+#header-nav {
+  background-color: black;
+  border-radius: 0;
+  border: 0;
+}
+
+.navbar-brand a {
+  color: #DAF7A6;
+}
+
+#nav-list a{
+  color: #DAF7A6;
+}
+
+#Chicken {
+  border: 1px 1px 1px 1px;
+  border-style: double;
+  color: #DAF7A6;
+}
+
+h4 {
+  color: #DAF7A6;
+  text-shadow: 1.5px 1.5px black;
+  text-align: center;
+}
+
+p {
+  color: black;
+  margin: 20px 3px 3px;
+}
+
+#Beef {
+  border: 1px 1px 1px 1px;
+  border-style: double;
+  color: #DAF7A6;
+}
+
+#Sushi {
+  border: 1px 1px 1px 1px;
+  border-style: double;
+  color: #DAF7A6;
+}
+
+h1 {
+  text-align: center;
+  text-shadow: 3px 3px #DAF7A6;
+}
